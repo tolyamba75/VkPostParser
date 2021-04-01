@@ -1,0 +1,7 @@
+venv/
+__pycache__/
+migrations/
+.env
+proba
+*.log
+static/
